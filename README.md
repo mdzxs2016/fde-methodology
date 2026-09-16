@@ -1,6 +1,6 @@
 # FDE组织方法论：打造最接近客户结果的AI交付团队
 
-> 写给技术决策者的 AI 交付组织方法论：如何把大语言模型从演示厅送进客户的真实生产环境，并对业务结果负责。
+> 写给政府信息化负责人与企业技术决策者的 AI 交付组织方法论。
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
